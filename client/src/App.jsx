@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import Register from './Registration'
+import Register from './Register'
 import Login from './Login'
 import Home from './Home'
 function App() {
